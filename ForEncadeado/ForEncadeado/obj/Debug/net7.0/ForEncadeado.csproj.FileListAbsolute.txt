@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\bin\Debug\net7.0\ForEncadeado.exe
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\bin\Debug\net7.0\ForEncadeado.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\bin\Debug\net7.0\ForEncadeado.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\bin\Debug\net7.0\ForEncadeado.dll
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\bin\Debug\net7.0\ForEncadeado.pdb
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.dll
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\refint\ForEncadeado.dll
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.pdb
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ForEncadeado.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\ForEncadeado\ForEncadeado\obj\Debug\net7.0\ref\ForEncadeado.dll

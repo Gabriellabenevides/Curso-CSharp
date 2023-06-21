@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\bin\Debug\net7.0\CalculaInvestimentoLongoPrazo.exe
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\bin\Debug\net7.0\CalculaInvestimentoLongoPrazo.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\bin\Debug\net7.0\CalculaInvestimentoLongoPrazo.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\bin\Debug\net7.0\CalculaInvestimentoLongoPrazo.dll
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\bin\Debug\net7.0\CalculaInvestimentoLongoPrazo.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.dll
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\refint\CalculaInvestimentoLongoPrazo.dll
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\CalculaInvestimentoLongoPrazo.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaInvestimentoLongoPrazo\CalculaInvestimentoLongoPrazo\obj\Debug\net7.0\ref\CalculaInvestimentoLongoPrazo.dll

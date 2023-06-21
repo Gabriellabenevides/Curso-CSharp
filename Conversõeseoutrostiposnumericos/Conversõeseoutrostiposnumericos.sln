@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversõeseoutrostiposnumericos", "Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos.csproj", "{7457495E-A56D-440B-8ECB-270654B26662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7457495E-A56D-440B-8ECB-270654B26662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7457495E-A56D-440B-8ECB-270654B26662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7457495E-A56D-440B-8ECB-270654B26662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7457495E-A56D-440B-8ECB-270654B26662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

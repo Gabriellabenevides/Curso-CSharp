@@ -1,0 +1,30 @@
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.exe
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\refint\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\ref\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.exe
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\bin\Debug\net7.0\CalculaPoupanca2.pdb
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\refint\CalculaPoupanca2.dll
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.pdb
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\CalculaPoupanca2.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\Alura C#\CalculaPoupanca2\CalculaPoupanca2\obj\Debug\net7.0\ref\CalculaPoupanca2.dll

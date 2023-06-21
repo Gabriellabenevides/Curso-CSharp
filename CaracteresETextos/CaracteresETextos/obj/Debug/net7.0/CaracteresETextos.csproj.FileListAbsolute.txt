@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\bin\Debug\net7.0\CaracteresETextos.exe
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\bin\Debug\net7.0\CaracteresETextos.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\bin\Debug\net7.0\CaracteresETextos.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\bin\Debug\net7.0\CaracteresETextos.dll
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\bin\Debug\net7.0\CaracteresETextos.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.dll
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\refint\CaracteresETextos.dll
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\CaracteresETextos.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\CaracteresETextos\CaracteresETextos\obj\Debug\net7.0\ref\CaracteresETextos.dll

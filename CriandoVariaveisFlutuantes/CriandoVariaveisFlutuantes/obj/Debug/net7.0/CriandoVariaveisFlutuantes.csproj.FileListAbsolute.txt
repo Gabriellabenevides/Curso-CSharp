@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\bin\Debug\net7.0\CriandoVariaveisFlutuantes.exe
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\bin\Debug\net7.0\CriandoVariaveisFlutuantes.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\bin\Debug\net7.0\CriandoVariaveisFlutuantes.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\bin\Debug\net7.0\CriandoVariaveisFlutuantes.dll
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\bin\Debug\net7.0\CriandoVariaveisFlutuantes.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.dll
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\refint\CriandoVariaveisFlutuantes.dll
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\CriandoVariaveisFlutuantes.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveisFlutuantes\CriandoVariaveisFlutuantes\obj\Debug\net7.0\ref\CriandoVariaveisFlutuantes.dll

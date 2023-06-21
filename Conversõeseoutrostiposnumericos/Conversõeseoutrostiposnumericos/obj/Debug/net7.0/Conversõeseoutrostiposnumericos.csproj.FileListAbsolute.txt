@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\bin\Debug\net7.0\Conversõeseoutrostiposnumericos.exe
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\bin\Debug\net7.0\Conversõeseoutrostiposnumericos.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\bin\Debug\net7.0\Conversõeseoutrostiposnumericos.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\bin\Debug\net7.0\Conversõeseoutrostiposnumericos.dll
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\bin\Debug\net7.0\Conversõeseoutrostiposnumericos.pdb
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.dll
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\refint\Conversõeseoutrostiposnumericos.dll
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.pdb
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\Conversõeseoutrostiposnumericos.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\Conversõeseoutrostiposnumericos\Conversõeseoutrostiposnumericos\obj\Debug\net7.0\ref\Conversõeseoutrostiposnumericos.dll

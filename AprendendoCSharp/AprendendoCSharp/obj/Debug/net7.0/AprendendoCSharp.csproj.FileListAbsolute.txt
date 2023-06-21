@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.exe
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.dll
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\bin\Debug\net7.0\AprendendoCSharp.pdb
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.dll
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\refint\AprendendoCSharp.dll
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.pdb
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\AprendendoCSharp.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\AprendendoCSharp\AprendendoCSharp\obj\Debug\net7.0\ref\AprendendoCSharp.dll

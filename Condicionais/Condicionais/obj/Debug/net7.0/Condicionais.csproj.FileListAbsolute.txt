@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\bin\Debug\net7.0\Condicionais.exe
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\bin\Debug\net7.0\Condicionais.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\bin\Debug\net7.0\Condicionais.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\bin\Debug\net7.0\Condicionais.dll
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\bin\Debug\net7.0\Condicionais.pdb
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.dll
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\refint\Condicionais.dll
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.pdb
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\Condicionais.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\Condicionais\Condicionais\obj\Debug\net7.0\ref\Condicionais.dll

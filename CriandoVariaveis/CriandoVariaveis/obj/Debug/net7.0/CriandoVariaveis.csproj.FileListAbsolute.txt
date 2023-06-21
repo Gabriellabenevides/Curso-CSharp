@@ -1,0 +1,15 @@
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\bin\Debug\net7.0\CriandoVariaveis.exe
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\bin\Debug\net7.0\CriandoVariaveis.deps.json
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\bin\Debug\net7.0\CriandoVariaveis.runtimeconfig.json
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\bin\Debug\net7.0\CriandoVariaveis.dll
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\bin\Debug\net7.0\CriandoVariaveis.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.csproj.AssemblyReference.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.AssemblyInfoInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.AssemblyInfo.cs
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.csproj.CoreCompileInputs.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.dll
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\refint\CriandoVariaveis.dll
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.pdb
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\CriandoVariaveis.genruntimeconfig.cache
+D:\Users\Gustavo\Documents\gabi\Code\CriandoVariaveis\CriandoVariaveis\obj\Debug\net7.0\ref\CriandoVariaveis.dll
